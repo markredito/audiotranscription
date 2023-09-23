@@ -7,6 +7,8 @@
 
 This project provides a Jupyter notebook to transcribe audio using OpenAI's Whisper Model. Authored by Mark Redito, it is inspired by a tutorial from Weights and Biases. The specific model used for transcription is `medium.en`, a medium-sized model tailored for the English language.
 
+Open the Google Colab Notebook [Here](https://colab.research.google.com/drive/1Bm7oaNfz9yYkDUb6w-v2d6MK8qaFgj_F?usp=sharing)
+
 ---
 
 ## Prerequisites
@@ -53,10 +55,3 @@ This project provides a Jupyter notebook to transcribe audio using OpenAI's Whis
 - [Inspiration: Weights and Biases Tutorial](https://https://wandb.ai/wandb_fc/gentle-intros/reports/OpenAI-Whisper-How-to-Transcribe-Your-Audio-to-Text-for-Free-with-SRTs-VTTs---VmlldzozNDczNTI0)
 - [Whisper on GitHub](https://https://github.com/openai/whisper)
 
----
-
-This README provides a concise overview and instructions to utilize the notebook for audio transcription. Users can follow the specified steps to obtain transcriptions of their audio files.
-
----
-
-Feel free to modify or expand this README as per your requirements.
