@@ -1,5 +1,5 @@
 
-# README for "Audio Transcription using Whisper"
+# "Audio Transcription using Whisper"
 
 ---
 
